@@ -1,0 +1,13 @@
+.shadowbox {
+    position: float;
+    top: 30%;
+    right: 50%;
+    height: 100px;
+     width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+    box-shadow: 100px 1px 2px blue, 0px 100px 30px red;
+ 
+}
